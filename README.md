@@ -23,3 +23,8 @@ A simple console-based ToDo list application written in Python. This app allows 
 
 ```bash
 python your_script_name.py
+```
+## Demo
+
+Watch the video demonstration of the project:  
+[Click here to watch the demo video](https://drive.google.com/file/d/10SjGzf-uggyhbECfyMmyGI39jLqOOVTT/view?usp=sharing)
